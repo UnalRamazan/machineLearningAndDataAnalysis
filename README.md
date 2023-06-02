@@ -1,2 +1,2 @@
-# machineLearningExample
-Machine Learning for Real-World Problem Solving
+# machineLearningAndDataAnalysis
+Machine Learning for Real-World Problem Solving And Data Analysis
